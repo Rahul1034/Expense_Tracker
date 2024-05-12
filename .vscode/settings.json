@@ -1,0 +1,6 @@
+{
+    "vscode-corda.isCordaProject": false,
+    "editor.tabCompletion": "on",
+    "diffEditor.codeLens": true,
+    "MutableAI.upsell": false
+}
